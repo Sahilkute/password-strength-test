@@ -22,9 +22,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Preview::::
 
+https://github.com/Sahilkute/password-strength-test/assets/133964711/62e529ad-3e96-41da-b594-548e18de1da4
 
-
-
+![sample](https://github.com/Sahilkute/password-strength-test/assets/133964711/99b87052-bcc1-4494-afe8-aa19ef03301f)
 
 Author:
 SAHIL KUTE
