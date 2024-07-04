@@ -21,10 +21,7 @@ License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Preview::::
-![sample-pic](https://github.com/Sahilkute/password-strength-test/assets/133964711/9d0fd26a-8930-4555-bf8d-2b1f092f5aad)
 
-
-https://github.com/Sahilkute/password-strength-test/assets/133964711/8d90893a-c2b6-4073-b30a-bbfce9e75462
 
 
 
