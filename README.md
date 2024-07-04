@@ -20,6 +20,12 @@ The script will provide a score and feedback on how to improve the password.
 License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+Preview::::
+![sample-pic](https://github.com/Sahilkute/password-strength-test/assets/133964711/9d0fd26a-8930-4555-bf8d-2b1f092f5aad)
+
+
+
+
 Author:
 SAHIL KUTE
 
